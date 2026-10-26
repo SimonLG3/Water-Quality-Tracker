@@ -1,6 +1,6 @@
 # Water Quality Tracker
 
-A mobile aquarium water quality tracking app built with React Native, Expo, and TypeScript. It helps aquarium keepers record important water parameters and review historical readings.
+This mobile app was built with React Native, Expo and with the TypeScript language. Its aim is to help aquariums and fish keepers record important information about their water and review historical readings.
 
 ## Features
 
@@ -67,7 +67,7 @@ Follow the Expo CLI instructions to open the app on a supported device or emulat
 
 ## Data Storage
 
-The app uses local storage through AsyncStorage to save readings on the device. This project is intended as a water quality tracking tool; recorded values should be interpreted alongside appropriate aquarium care guidance and testing procedures.
+This app uses local storage through AsyncStorage in order to save readings on the device. As this project is intended as a water quality tracking tool, recorded values should be interpreted alongside appropriate aquarium care guidance and testing procedures.
 
 ## Licence
 
